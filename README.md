@@ -1,5 +1,4 @@
 # The Return of Air India?
-Air-India Project
 
 This repository contains the analysis and findings for the Air India Project. The primary goal of this project was to analyze customer sentiment and word frequencies related to Air India before and after its acquisition by Tata. This analysis aims to evaluate the success of Air India’s takeover using various technical and analytical methods.
 
@@ -11,7 +10,7 @@ The repository includes the following files:
 2. Time-series Analysis.ipynb - A Jupyter Notebook focusing on the time series analysis of sentiment data to identify trends and changes over time. The analysis compares the pre- and post-takeover periods to assess the impact of Tata’s acquisition.
 3. Slides_Project.pptx - A presentation summarizing the project findings, including key insights, visualizations, and conclusions. This slide deck is intended to provide a high-level overview of the project.
 4. Air India Project PPT.pdf - A PDF version of the project presentation for easy sharing and review.
-5.Data Files:
+5. Data Files:
 
 • 2022to_present_wordfreq.csv: Contains word frequency data from 2022 to the present period.
 
@@ -30,9 +29,13 @@ This project aimed to analyze customer perceptions of Air India, focusing on key
 Key Steps in the Analysis:
 
 1.Data Collection: Customer reviews were scraped using the Scraper_Skytrax_Project.ipynb notebook, capturing both structured and unstructured data.
+
 2.Data Cleaning and Preprocessing: The scraped reviews were cleaned and transformed for further analysis.
+
 3.Sentiment Analysis: Customer sentiment was assessed using word frequency analysis and sentiment scoring techniques.
+
 4.Time Series Analysis: The sentiment trends over time were analyzed to identify any significant changes pre- and post-takeover.
+
 5.Visualization: Key findings were visualized using charts and graphs to communicate insights effectively.
 
 
