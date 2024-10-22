@@ -16,8 +16,11 @@ The repository includes the following files:
 • 2022to_present_wordfreq.csv: Contains word frequency data from 2022 to the present period.
 
 • attribute_word_frequencies(present).csv: A dataset of word frequencies categorized by specific attributes for the present period.
+
 • attribute_word_frequencies.csv: A dataset containing attribute-specific word frequencies.
+
 • sentiment_data_v2.csv: A dataset with sentiment scores for customer reviews.
+
 • top_100_word_frequencies_before_2022.csv: Contains word frequency data from before 2022.
 
 Project Summary
